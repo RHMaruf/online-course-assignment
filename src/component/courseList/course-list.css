@@ -1,0 +1,12 @@
+.course-container{
+    display: flex;
+}
+
+.course-list-container{
+    width : 70%;
+    margin : 10px;
+    
+}
+.course-list-container .row{
+    border-right: 1px solid lightgray;
+}
